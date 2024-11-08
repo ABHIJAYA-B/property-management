@@ -10,6 +10,17 @@ The Property Management System is a streamlined web application for property own
 - *Maintenance Requests*: Tenants can submit requests, and property managers can track the progress of each maintenance issue.
 - *Communication Hub*: Streamlined messaging between property managers and tenants for improved response times and transparency.
 
+## landlord login
+![WhatsApp Image 2024-11-08 at 10 09 47_d3ba8ef4](https://github.com/user-attachments/assets/8be75f0e-70de-4f8b-a1ae-88318ba96a23)
+
+## craete property
+![WhatsApp Image 2024-11-08 at 10 12 21_4b495d8a](https://github.com/user-attachments/assets/b24b8b4b-9dca-4de9-84d4-dfbab04b43e6)
+
+## management
+![WhatsApp Image 2024-11-08 at 10 12 51_4ff5819c](https://github.com/user-attachments/assets/c7bec801-160f-4f2d-bf99-bef578cb51d1)
+
+
+
 ## Usage
 
 1. *Setup*:
